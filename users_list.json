@@ -1,0 +1,19 @@
+[{
+    "name": "Rudianto",
+    "address":"Sumberan",
+    "isProgrammer":true
+},
+{
+    "name": "Fitriya Sari",
+    "address":"Alaskandang",
+    "isProgrammer":true
+},
+{
+    "name": "Areetha",
+    "address":"Alaskandang",
+    "isProgrammer":true
+},{
+    "name": "Nahda",
+    "address":"Sumberan",
+    "isProgrammer":false
+}]
